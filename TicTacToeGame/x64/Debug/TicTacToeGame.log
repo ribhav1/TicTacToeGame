@@ -1,0 +1,11 @@
+﻿  TicTacToeGame.cpp
+C:\Users\turtl\Downloads\C(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\C(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\C(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\turtl\Downloads\C(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../../../C#%20Project%20Solutions/TicTacToeGame/TicTacToeGame/TicTacToeGame.cpp')
+  
+C:\Users\turtl\Downloads\C(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../../../C#%20Project%20Solutions/TicTacToeGame/TicTacToeGame/TicTacToeGame.cpp')
+  
+  TicTacToeGame.vcxproj -> C:\Users\turtl\Downloads\C# Project Solutions\TicTacToeGame\x64\Debug\TicTacToeGame.exe
